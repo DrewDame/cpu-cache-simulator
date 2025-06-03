@@ -1,0 +1,2 @@
+# CPU Cache Simulator
+Parameterized LC2K cache simulator in C and integrated it into a behavioral processor model to handle unified instruction/data memory. Supported configurable associativity, block size, and replacement policies (including LRU and write-back), while logging all memory transfers and cache events. Validated correctness through a custom test suite and simulation trace analysis, showcasing skills in systems-level design, memory hierarchy modeling, and performance-critical programming.
